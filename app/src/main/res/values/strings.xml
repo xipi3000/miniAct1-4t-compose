@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestAccelerometreKotlin</string>
+    <string name="shake">Shake to get a toast and to switch color</string>
+    <string name="shuffed">Device was shuffed</string>
+    <string name="accelerometer_exists">Shake to get a toast and to switch color</string>
+    <string name="no_accelerometer">Sorry, there is no acceleromete</string>
+    <string name="has_light">Max. rang de mesura = </string>
+    <string name="no_light">Sorry, there is no light sensor</string>
+    <string name="medium_light">\nMEDIUM</string>
+    <string name="high_light">\nHIGH</string>
+    <string name="low_light">\nLOW</string>
+    <string name="light_value">"New value light sensor = "</string>
+</resources>
